@@ -72,6 +72,6 @@ public class NotificationHelper extends ContextWrapper {
                 .setContentTitle(title)
                 .setContentText(message)
                 .setColor(getResources().getColor(R.color.colorAccent))
-                .setSmallIcon(R.drawable.ic_two);
+                .setSmallIcon(R.drawable.prayertime);
     }
 }
